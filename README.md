@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Data Analysis, NLP, Image Segmentation**
+- 🌱 I’m currently learning **Data Analysis, NLP, Deep Learning**
 
 - 👯 I’m looking to collaborate on **...**
 
